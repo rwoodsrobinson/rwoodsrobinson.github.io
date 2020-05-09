@@ -12,10 +12,11 @@ citation: 'Woods-Robinson, R., Ablekim, T., Norman, A., Johnston, S., Persson, K
 
 Haiku:
 
-<br>new PV contact
+new PV contact
 <br>works well with CdTe despite
 <br>funky interface
 <br>
+
 [Download paper here](https://github.com/rwoodsrobinson/rwoodsrobinson.github.io/blob/master/files/Woods-Robinson_CdTe_CuZnS_manuscript_revision.pdf)
 
 Citation: 'Woods-Robinson, R., Ablekim, T., Norman, A., Johnston, S., Persson, K.A., Reese, M.O., Metzger, W.K., Zakutayev, A. (2009). &quot;Sputtered p-type Cu<sub>x</sub>Zn<sub>1-x</sub>S Back Contact to CdTe Solar Cells.&quot; <i>Applied Energy Materials</i>. Accepted.'.
