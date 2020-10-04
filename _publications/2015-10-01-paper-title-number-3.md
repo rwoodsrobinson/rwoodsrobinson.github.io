@@ -1,7 +1,7 @@
 ---
 title: "Wide band gap chalcogenide semiconductors"
 collection: publications
-permalink: /publication/2020-04-06-sputtered-CuZnS-for-CdTe
+permalink: /publication/2020-04-06-chalc-review
 excerpt: 'We review a bunch of different materials made from sulfur (S), selenium (Se), and tellurium (Te) anions (these materials are called <i>chalcogenides</i>) that are unique because they are both transparent to visible light (wide band gap) and conductive to electricity (semiconductors). This combination of properties is really useful in solar cells, LEDs, transparent electronics, and water splitting, among other energy appications.'
 haiku: '<br>new PV contact <br>works well with CdTe despite <br>funky interface'
 date: 2020-04-06
