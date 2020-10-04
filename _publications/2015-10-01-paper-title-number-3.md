@@ -2,8 +2,8 @@
 title: "Wide band gap chalcogenide semiconductors"
 collection: publications
 permalink: /publication/2020-04-06-chalc-review
-excerpt: 'We review a bunch of different materials made from sulfur (S), selenium (Se), and tellurium (Te) anions (these materials are called <i>chalcogenides</i>) that are unique because they are both transparent to visible light (wide band gap) and conductive to electricity (semiconductors). This combination of properties is really useful in solar cells, LEDs, transparent electronics, and water splitting, among other energy appications.'
-haiku: '<br>new PV contact <br>works well with CdTe despite <br>funky interface'
+excerpt: 'We review a bunch of different materials made from sulfur (S), selenium (Se), and tellurium (Te) anions (these materials are called <i>chalcogenides</i>) that are unique because they are both transparent to visible light (wide band gap) and conductive to electricity (semiconductors). This combination of properties is rare in nature but is really useful in solar cells, LEDs, transparent electronics, and water splitting, among other energy appications.'
+haiku: '<br>TC"O", you say?  <br>Meet the wide gap non-oxides! <br>Both n and p type. <br> <br>We review some here. <br>For new thin films, devices? <br>Solar … and beyond!'
 date: 2020-04-06
 venue: 'Applied Energy Materials'
 paperurl: https://pubs.acs.org/doi/abs/10.1021/acsaem.0c00413.
