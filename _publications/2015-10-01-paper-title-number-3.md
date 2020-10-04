@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 3"
+title: "Wide band gap chalcogenide semiconductors"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-04-06-sputtered-CuZnS-for-CdTe
+excerpt: 'We review a bunch of different materials made from sulfur (S), selenium (Se), and tellurium (Te) anions (these materials are called <i>chalcogenides</i>) that are unique because they are both transparent to visible light (wide band gap) and conductive to electricity (semiconductors). This combination of properties is really useful in solar cells, LEDs, transparent electronics, and water splitting, among other energy appications.'
+haiku: '<br>new PV contact <br>works well with CdTe despite <br>funky interface'
+date: 2020-04-06
+venue: 'Applied Energy Materials'
+paperurl: https://pubs.acs.org/doi/abs/10.1021/acsaem.0c00413.
+citation: 'Woods-Robinson, R., Han, Y., Zhang, H., Ablekim, T., Khan, I., Persson, K. A., & Zakutayev, A. (2020). &quot;Wide band gap chalcogenide semiconductors.&quot; <i>Chemical Reviews</i>. 120(9), 4007-4055.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Haiku:
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+TC"O", you say? 
+<br>Meet the wide gap non-oxides!
+<br>Both n and p type.
+<br>
+<br>We review some here.
+<br>For new thin films, devices? 
+<br>Solar … and beyond!
+
+
+[Download paper here](https://github.com/rwoodsrobinson/rwoodsrobinson.github.io/blob/master/files/acs.chemrev.9b00600.pdf)
+
+Citation: 'Woods-Robinson, R., Han, Y., Zhang, H., Ablekim, T., Khan, I., Persson, K. A., & Zakutayev, A. (2020). &quot;Wide band gap chalcogenide semiconductors.&quot; <i>Chemical Reviews</i>. 120(9), 4007-4055.'
