@@ -2,7 +2,7 @@
 title: "Combinatorial tuning of structural and optoelectronic properties in CuxZn1−xS"
 collection: publications
 permalink: /publication/2019-10-02-CuZnS-matter
-excerpt: 'We grow an emerging new material that's transparent to visible light and conductive to holes, map out phase changes as a function of composition and properties (we find a metastable alloy!), and contextualize findings with other literature reports.'
+excerpt: 'We grow an emerging new material that&apos;s transparent to visible light and conductive to holes, map out phase changes as a function of composition and properties (we find a metastable alloy!), and contextualize findings with other literature reports.'
 haiku: '<br>Sulfide alloy map  <br>shows phase change, p-TC zone. <br>New design approach?'
 date: 2019-10-02
 venue: 'Matter'
