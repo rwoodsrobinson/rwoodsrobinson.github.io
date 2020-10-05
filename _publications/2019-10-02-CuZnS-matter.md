@@ -12,7 +12,7 @@ citation: 'Woods-Robinson, R., Han, Y., Mangum, J. S., Melamed, C. L., Gorman, B
 
 Haiku:
 
-Sulfide alloy map
+<br>Sulfide alloy map
 <br>shows phase change, p-TC zone.
 <br>New design approach?
 
