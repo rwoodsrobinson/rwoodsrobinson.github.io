@@ -2,7 +2,7 @@
 title: "A Model for the Thermophysical Properties of Lunar Regolith at Low Temperatures"
 collection: publications
 permalink: /publication/2019-06-11-cold-moon-dust
-excerpt: 'What's up with cold moon dust? Let's find out.'
+excerpt: 'Cold moon dust. What do you know about it? Lets find out.'
 haiku: '<br>TC"O", you say?  <br>Meet the wide gap non-oxides! <br>Both n and p type. <br> <br>We review some here. <br>For new thin films, devices? <br>Solar … and beyond!'
 date: 2019-06-11
 venue: 'Journal of Geophysical Research: Planets'
