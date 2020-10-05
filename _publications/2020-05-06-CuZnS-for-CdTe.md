@@ -2,7 +2,7 @@
 title: "Sputtered p-type Cu<sub>x</sub>Zn<sub>1-x</sub>S Back Contact to CdTe Solar Cells"
 collection: publications
 permalink: /publication/2020-05-06-CuZnS-for-CdTe
-excerpt: 'This paper is about using a semiconductor alloy of copper, zinc, and sulfur as a new contact layer in cadmium telluride (CdTe) solar cells, and explores the performance and the underlying physics.'
+excerpt: '<b>tl;dr</b> We use a semiconductor alloy of copper, zinc, and sulfur as a new contact layer in cadmium telluride (CdTe) solar cells, and explore the performance and the underlying physics.'
 haiku: '<br>new PV contact <br>works well with CdTe despite <br>funky interface'
 date: 2020-05-06
 venue: 'Applied Energy Materials'
