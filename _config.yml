@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rachel Woods-Robinson"
 title_separator          : "-"
 name                     : &name "Rachel Woods-Robinson"
-description              : &description "Living in a material world and doing some material science"
+description              : &description "Living in a material world, and doing some material science"
 url                      : https://rachelectron.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rwoodsrobinson/rwoodsrobinson.github.io"
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Rachel Woods-Robinson"
   avatar           : "Woods-Robinson_Rachel_headshot.jpeg"
-  bio              : "Chillin"
+  bio              : #"Always reimagining myself. Currently iteration is a "
   location         : "Quarantown, USA"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=P-_0mFYAAAAJ"
+  email            : "rwoodsrobinson@lbl.gov"
+  researchgate     :  "https://www.researchgate.net/profile/Rachel_Woods-Robinson2"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/rwoodsrobinson"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/rachel-woods-robinson-22b42b49/"
+  orcid            : "https://orcid.org/0000-0001-5009-9510"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "rachelectron"
+  twitter          : "https://twitter.com/rachelectron"
   vine             :
   weibo            :
   xing             :
