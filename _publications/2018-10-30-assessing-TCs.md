@@ -2,7 +2,7 @@
 title: "Assessing High-Throughput Descriptors for Prediction of Transparent Conductors"
 collection: publications
 permalink: /publication/2018-10-30-assessing-TCs
-excerpt: 'We assess the validity of computational screening methods for transparent conducting materials'
+excerpt: '<b>tl;dr</b> We assess the validity of computational screening methods for transparent conducting materials'
 date: 2018-10-30
 venue: 'Chemistry of Materials'
 paperurl: https://pubs.acs.org/doi/10.1021/acs.chemmater.8b03529.
