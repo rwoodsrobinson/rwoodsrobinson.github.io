@@ -1,5 +1,5 @@
 ---
-title: "Combinatorial tuning of structural and optoelectronic properties in Cu<sub>x</sub>Zn<sub>1−x</sub>S"
+title: "Combinatorial tuning of structural and optoelectronic properties in Cux<Zn1−xS"
 collection: publications
 permalink: /publication/2019-10-02-CuZnS-matter
 excerpt: 'We grow an emerging new material that's transparent to visible light and conductive to holes, map out phase changes as a function of composition and properties (we find a metastable alloy!), and contextualize findings with other literature reports.'
